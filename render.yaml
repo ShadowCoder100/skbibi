@@ -1,6 +1,6 @@
 services:
   
 type: web
-  name: history.quiz
+  name: history
   env: docker
   plan: free
